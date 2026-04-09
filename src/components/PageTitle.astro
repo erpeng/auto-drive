@@ -1,0 +1,42 @@
+---
+const PAGE_TITLE_ID = '_top';
+const { entry } = Astro.locals.starlightRoute;
+const data = entry.data;
+
+const formatter = new Intl.DateTimeFormat('zh-CN', {
+  year: 'numeric',
+  month: '2-digit',
+  day: '2-digit'
+});
+
+const isRaw = data.pageLabel === '原始材料';
+const description = typeof data.description === 'string' ? data.description : '';
+const chips = [];
+
+if (!isRaw && data.lastUpdated instanceof Date) {
+  chips.push({ label: `最近更新 ${formatter.format(data.lastUpdated)}`, kind: 'neutral' });
+}
+
+if (isRaw && typeof data.publishedAt === 'string' && data.publishedAt) {
+  chips.push({ label: `发布于 ${data.publishedAt}`, kind: 'neutral' });
+}
+---
+
+<div class="reader-header">
+  {chips.length > 0 && (
+    <div class="reader-chips">
+      {chips.map((chip) => (
+        <span class:list={['reader-chip', chip.kind === 'accent' && 'is-accent']}>{chip.label}</span>
+      ))}
+    </div>
+  )}
+  <h1 id={PAGE_TITLE_ID}>{data.title}</h1>
+  {description && <p class="reader-dek">{description}</p>}
+  {isRaw && typeof data.sourceUrl === 'string' && data.sourceUrl && (
+    <div class="reader-actions">
+      <a href={data.sourceUrl} target="_blank" rel="noreferrer" class="reader-source-link">
+        查看外部原文
+      </a>
+    </div>
+  )}
+</div>

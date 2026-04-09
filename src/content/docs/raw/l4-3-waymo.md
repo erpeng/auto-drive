@@ -1,0 +1,263 @@
+---
+title: 对话文远知行韩旭：中国真正的L4只有3家，马斯克不上激光雷达干不过Waymo
+description: 本文仅用于学术分享，编辑浪道，版权属于原作者，若有侵权，请联系删除。
+pageLabel: 原始材料
+sourceUrl: https://mp.weixin.qq.com/s/_LyusH9MmJvtWllUhp4tDA
+---
+
+## 对话文远知行韩旭：中国真正的L4只有3家，马斯克不上激光雷达干不过Waymo | MEET2026
+
+*2025年12月25日 11:01*
+
+本文仅用于学术分享，编辑浪道，版权属于原作者，若有侵权，请联系删除。
+
+来源丨量子位
+
+时隔六年再次登上 **量子位MEET智能未来大会** ， **韩旭** 已不再是那个需要向投资人证明“自动驾驶不是骗局”的创业者。
+
+他的治下， **文远知行** 现在是美股港股双料上市的“Robotaxi第一股”。
+
+但与 **量子位总编辑李根** 的对话中，韩旭对创业8年的评价却出人意料：
+
+> 我没空看成绩单。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCfz0NS4Ax0hvEqO9Ya8coDaC7BSZOAPdzibMQUoiceRliaib5kFcLIdbD2t7xQOFzx0Zj1bbaibLmlRvQ/640?wx_fmt=png&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=0)
+
+他在忙什么？在 **忙300～500万年薪广招英才** 、在 **忙Robotaxi海外跑马圈地** 、在 **忙一段式端到端量产的“搏二兔”** ：
+
+> 时过境迁，今天确实可以搏二兔了。
+
+但对同样“搏二兔”大搞Robotaxi的特斯拉，他给出了近乎“打脸”的预言；
+
+最近Robotaxi先行者Waymo的估值，已经达到1000亿美元。这也带动行业内“L4公司”遍地开花，对此，韩旭又毫不迟疑划出了不容模糊的技术壁垒，并直言：
+
+> “国内真正能纯无人运营的只有三家”。
+
+从L4到L2++，这位亲历行业从“骗局论”走到规模化落地的自动驾驶一线“老兵”，在独家对话中给出了当下自动驾驶的一线洞察，以及未来竞争的生死线。
+
+## 从“骗子公司”到无人化规模落地
+
+**李根：太高兴了，韩旭又再一次回到MEET智能未来大会，现在成为全球Robotaxi第一股的感觉怎么样？**
+
+**韩旭** ： **2024年的10月24日程序员节第二天 *（10月25日）* 文远知行美股上市** ，一年零十天的时间， **2025年11月6日，我们港股二次上市** 。
+
+这一年多的时间，一直是紧锣密鼓，我们可能在某种程度上创造了历史，这么快的速度先上美股再上港股。
+
+**上市以后，我们更多精力花在企业发展和人才招聘上** ，我觉得达成了两地双重上市这个目的以后，我也不会再盯着成绩单看了，准备下一步了。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtCfz0NS4Ax0hvEqO9Ya8coDPp5R0LGtkyAPqMHp9uiatYiczTgjujhy4I5yCzibjpzEoMKWZN9fOyK5A/640?wx_fmt=jpeg&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=1)
+
+**李根：我很感慨，上次来的时候是2019年，当时行业还在说“自动驾驶的资本寒冬”，很难想象今天“自动驾驶第一股”的成就。**
+
+**韩旭** ：谢谢。2019年资本寒冬，我记得当时我来MEET大会有一个很重要的原因，可以和大家分享一下， **就是当时账上的钱只够6、7个月的时间** 。
+
+当时创新工场的李开复老师也来量子位，他已经是文远知行的投资人了， **那时我的策略就是跟所有的投资人汇报一下我们的进展，因为技术进展真的很不错，看看投资人能不能再加码** 。
+
+**那个时候真的非常艰难，今天再跟你坐在这个舞台上畅谈无人驾驶的时候，确实有一种恍如隔世的感觉** 。
+
+**李根：你还记得当时做的一些预测吗？**
+
+**韩旭** ：我记不太清楚了，只记得有和Momenta创始人曹旭东对话。
+
+**我当时说那个时候不适合L2和L3、L4都做** ，我当时用了围棋大师吴清源先生提醒聂卫平的话 **“搏二兔，不得一兔”** ，但是预测我不太记得了。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtCfz0NS4Ax0hvEqO9Ya8coDqZn83rQD2BHibVocCJ9IZ8fxiaYkB0eDicLIgs4A8RBTwEq3JG1XgHb6w/640?wx_fmt=jpeg&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=2)
+
+**李根：你的确对Robotaxi有一些预测，我们给你找出来了，请放一下视频吧。**  
+*（注：2019年MEET大会上，韩旭曾预测2024-2025年Robotaxi开始“满大街跑”）*
+
+**韩旭** ：我真的挺激动，这段视频一定要发给我，这是六年以前的预测，感谢量子位找出来。
+
+大家都喜欢做很多预测，预测完了过一两年就忘了，其实预测是很危险的，预测不好就会被打脸。我看到这个还是挺感慨的，幸亏那个时候预测对了。
+
+**李根：还是很精准的，那时候精准的说一个数字，我记得你当时还担心，因为预测太过疯狂。现在文远知行的产品在全球11个国家落地，当时确实很难想象。文远知行创业8年，作为第一批自动驾驶的创业者，你觉得过去8年自动驾驶行业都有哪些重要进展、节点或结果？**
+
+**韩旭** ： **2019年是蛮重要的节点** ， **我给预测的时候，很多人都说无人驾驶公司都是骗子公司** ……
+
+那时我在做路演的时候，总要跟投资人解释这不是骗人的。而今天，广州、北京、阿布扎比都可以打到文远知行纯无人的Robotaxi。
+
+其实那个时候我就把最重要的里程碑告诉大家了—— **把安全员从车上拿下去** 。2019年虽然我看到了，但是我要让大家都看到，都有信心去做。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCfz0NS4Ax0hvEqO9Ya8coD4g2KREqAGnfCLgCZ9ruTSOVzSCfBMO2QZQTtykvA4z2SCiaMtl1Ylpw/640?wx_fmt=png&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=3)
+
+文远知行在2021年的时候，在和宇通合作的小巴上实现了Driver out（去安全员），接着在Robotaxi实现Driver out，到目前为止搞了三年多的Driver out，接驳乘客超过50万名了，没有什么重大的责任事故，这些方面都是非常好的成绩。
+
+所以我想说， **第一Driver out很重要** ， **第二车队成规模很重要** 。
+
+以前文远知行Driver out是后装的车，现在跟吉利远程合作的车，未来和广汽合作的车已经开始进入前装量产了，固态激光雷达又使成本进一步降低，让我们能够迅速地在几年内部署成千上万辆车，甚至一个城市有一万辆车——
+
+这几个都是非常重要的里程碑。
+
+## “中国真L4只有3家”，L2/L4壁垒远没打破
+
+**李根：以前大家对于无人驾驶或者自动驾驶有L2、L4的划分，不知道现在这个时间节点你怎么看这个事情，到底中间的壁垒有没有被打破？**
+
+**韩旭** ： **我觉得L2和L4之间的壁垒根本没有被打破** 。
+
+**我观测到几个现象，今天中国很多公司其实没有做过L4，但纷纷说自己的L4战略** 。在我眼中你说你做L4有一个非常重要的标志： **至少要有一个20、30辆车的车队，纯无人跑半年之后才可以说自己是L4的公司** 。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtCfz0NS4Ax0hvEqO9Ya8coD5iaJHVg69nqEAfkVXQJ8157dCiaAvWUuTgNPch2ZREmuWVM3ib7l4AIhw/640?wx_fmt=jpeg&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=4)
+
+你现在就可以拿一辆L2++的车说它是Robotaxi，每个车上坐一个司机也好、安全员也好，乘客上来进入辅助驾驶模式，有问题就接管，现在就可以造这么一支伪Robotaxi车队，说你是L4公司。但我觉得这个根本就不是，真正的L4公司你要有纯无人车队的运营。
+
+在中国来说现在真正能对外纯无人运营的只有三家，文远、百度、小马，这是很明确的。
+
+同样的道理， **做ADAS的公司，最黄金的标准就是自动驾驶系统是不是到了量产车上** 。这很简单，不能说我做ADAS，但是我的方案没有车厂用，这就不能说自己是做高阶辅助驾驶的公司。
+
+中国今天把车推向高阶辅助自动驾驶， **真正能用的就是文远知行、地平线、Momenta、大疆的卓驭，还有几家** ，这是真正的标准。
+
+回到L4，做一个纯无人车队是件非常不容易的事。不是今天随便一个玩家说我有L4战略、有运营战略就可以的。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtCfz0NS4Ax0hvEqO9Ya8coDu49BqrNic7iay9xCTR9qwz6LicIjcMfLZDKLmJ6pTMcKS3mFZhK0QhahA/640?wx_fmt=jpeg&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=5)
+
+**有的车厂或者平台可能是拿了别人家技术，买了别人车刷个喷漆说自己有L4技术，我觉得这是不正确的，你必须要有L4技术有纯无人运营才可以说自己是一家L4公司，否则的话你只是使用别人的L4技术做一家运营公司。**
+
+**还有一种是拿着L2++连L3都不算的车雇一些安全员在开，我觉得这是“伪”L4公司** 。
+
+**李根：大家说资本市场是称重机，现在L4的公司价值普遍比L2公司高一些，也反映在大家的认可度上。**
+
+**韩旭** ：刚才我列举了两个标准，为什么我可以这么说？因为文远知行是一家扎扎实实做L4的公司，做L2++的公司。
+
+前段时间卓驭的CEO沈劭劼接受采访的时候说Follow三家公司，地平线、Momenta、文远知行，他们Follow技术路线比较正的三家公司。
+
+文远知行也是一家做L2++的公司，中国这两个都做的玩家只有文远。曾经百度既做L4也做L2++，随着极越汽车的退出，百度只做L4了。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtCfz0NS4Ax0hvEqO9Ya8coDWWktuzvxbySsLFqOQxm5rCOwUfpbdW9FbricficpKyyRiaolfTYzsMjHQ/640?wx_fmt=jpeg&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=6)
+
+文远知行既做ADAS也做L4，我自然有资格评判两边的难度。 **我可以负责任地告诉大家，L2++做好不容易，但它的难度跟纯L4比起来是天壤之别** ，像在江里面做一艘小船和做一条跨洋的大船，难度差别太大了，这也是为什么L4的公司比L2++值那么多钱。
+
+美国有家公司叫 **AURORA** ，市值大约90亿美元，没有太多运营。还有一家公司 **Mobileye** ，全球装机量几百万的L2++。
+
+这两家市值基本上是一样的，市场其实已经给出了一些评判。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCfz0NS4Ax0hvEqO9Ya8coDNtbNQnpxggbctPw1qVGYvNTAPV2yVqvBp7uEuFicvicITGXWwzn0IkJA/640?wx_fmt=png&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=7)
+
+****李根：非常有意思的观察。刚刚讲到文远知行以L4通用的自动驾驶技术做L2++的落地，最近也有一些评价，把文远知行、地平线还有Momenta这样一段式端到端L2++最前沿的三家叫做“文地魔”，你怎么看这个说法？**  
+**
+
+**韩旭** ：这应该是哈利波特迷吧？
+
+我觉得ADAS的变化很多的，各个方面都在变化，一段式端到端最近刚刚开始有，未来有更多公司会做出一段式端到端，但投入非常大，几万块的GPU显卡，大量数据……这些都是很难的。
+
+大家会质疑我“六年前你说搏二兔不得一兔，今天你不是在做搏二兔的事情？”
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCfz0NS4Ax0hvEqO9Ya8coDm4j5IIHZWVkAic6Tyt11b5zxmeaPqvdMeRCm9NSp4iaSGSiasO8t3Z8Rw/640?wx_fmt=png&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=8)
+
+我的回答是 **文远知行的策略一贯明确** ：当时我们只有Xavier，大约70TOPS，今天我们有Thor，单卡1000TOPS，L4的算力大约是在3000tops左右，所以双Thor已经到了L4的级别，这样一来L4、L3和ADAS所需要的硬件需求迅速变小——
+
+**这就相当于两个兔子腿绑在一起了，两只兔子只能往一个方向跑** ， **你有能力的话是可以抓两只兔子的** 。
+
+今天我正式回应一下， **时过境迁，此一时彼一时，今天确实可以搏二兔了** ，而且文远知行也在坚定地做平台化的战略，既做L4也做ADAS，中国只有这么一家。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCfz0NS4Ax0hvEqO9Ya8coDNMyDXd2UtN5bybJVEmLrBP6ic2ktzRmfg58jibcJdB4o65ahAhYYf0OQ/640?wx_fmt=png&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=9)
+
+**李根：确实此一时非彼一时，但现在你的友商可不止其他国内的公司，还有地球最强男人马斯克，他也做Robotaxi，你怎么看这个事情？**
+
+**韩旭** ：马斯克一直是我非常佩服的人物。 **马斯克在2018年的时候说，我可以用无人驾驶从任何一个停车场到另一个停车场，比如从纽约无接管开到LA，不过今天他依然做不到** 。至少FSD V12依然做不到，因为我天天就在开FSD，依然无法做到从纽约无人驾驶到洛杉矶。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCfz0NS4Ax0hvEqO9Ya8coDrmTBxnQuEibibPicp3F6IwibaW9Aeq97dpKukHku3kmtxu5dicaTVPyBeHA/640?wx_fmt=png&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=10)
+
+从2018年到现在7年过去了， **关于Robotaxi我再做一个预言，同样很危险，但是我愿意做** ：
+
+> **如果马斯克还是用Model 3或者Model Y这样的量产车，且3年之内坚持不装激光雷达，那么肯定无法在旧金山做到今天Waymo的水平** 。
+
+这是我的一个预言， **3年之后大家可以看看我是不是被打脸。**
+
+马斯克承诺过的很多东西的确会做到，只不过是时间的差别，往往8年、10年往后Delay，我也很期待他能做出来，但是时间要更好地把握。
+
+## AI放大人才价值，真正英才500万年薪也不止
+
+**李根：你们上市之后第一件事情拿300—500万薪资去做校招，八年前应该是30—50万，现在膨胀了大概10倍。是因为文远知行财力雄厚了给这么大的薪资，还是确实的确需要这么昂贵的顶尖人才解决自动驾驶或具身智能？**
+
+**韩旭** ：这个问题非常好。我觉得大家深有同感，那就是 **AI是一个巨大的放大器，把人和人的差别不是缩小了，而是放大了** 。以前可能他挣10万，你挣30万，随着AI时代的来临，一个非常聪明的人可以挣300万、500万。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCfz0NS4Ax0hvEqO9Ya8coD9AqC32Qvm6b4w9v5x2BdqpbKEmXvATyfVBGfiagHJ1Ta966gebje04w/640?wx_fmt=png&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=11)
+
+我的同门师弟 **余家辉** ，被小扎（即META扎克伯格）用大约3亿美元还是2亿美元请去了，是普通打工人几千倍的待遇，所以AI是人才放大器。
+
+**昨天晚上（12月9日）我到北大做校招，只要符合英才标准，300万起，500万封顶** ，可能对于真正好的英才，500万还远远不够。
+
+**文远知行并不是给大家画饼，过去说给股票是在空中飘着，今天（公司上市了）是真金白银地给** 。
+
+AI时代我们诚聘英才，你觉得够格的话，欢迎投简历给文远知行。
+
+## 8年，自动驾驶走到“AlphaGo时刻”
+
+**李根：请你面向未来预测一下，下半年自动驾驶，或者未来几年怎么看待自动驾驶，或许过几年我们可以再回放一下。**
+
+**韩旭：我想第一个预测已经说了，** **3年之内，如果特斯拉不做多模态传感器前装量产的Robotaxi，它无法在旧金山做到今天Waymo的水平** 。
+
+第二个预测，还是以8年维度考察的话，可能会出现Superdriver，会比最好的人类司机开得都好—— **8年之内，自动驾驶有可能会出现AlphaGO时刻** ，这是我的预言。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtCfz0NS4Ax0hvEqO9Ya8coD2ju474LHzvCeM37k0ibtmPtibxytX3TibDHLeTQSibR1AWiaA2FQGvCbVQQ/640?wx_fmt=jpeg&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=12)
+
+AlphaGO让大家看到AI在棋盘上全面碾压人类，驾驶这件事某种程度上比下棋更复杂，但是8年时间，随着人工智能、大模型、算力的发展，我预测会出现一个Superdriver，它比人类99.99%的司机都开得好，开得安全。
+
+**李根：感谢韩旭。最后来一个小问题，量子位一路见证了文远知行从8年前到现在，确实是很不容易的创业经历，现在很多投身AI、投身具身智能机器人的创业者，他们或许也会面临你们相同的困难或者是相似的情况。如果现在让你回顾创业历程，更早地认识到什么样的事情，或者是获得什么样的认知，会让你更开心、更顺利一点？**
+
+**韩旭** ：开心不开心，可能是跟自己个人本心有关系。让我反思， **我能够跟所有创业者分享的是善待自己** 。
+
+因为当时我们钱快没有了，每一分钱都在省， **越洋13、14、15个小时我也挤在经济舱里面，最后后背飞伤了** 。
+
+所以我想跟大家说的是， **现在资本环境比我们那时候好很多，不要放弃融资，储存好足够的粮草** 。
+
+但是 **善待自己的健康** 。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtCfz0NS4Ax0hvEqO9Ya8coD5BUDDrZQYHQe3MWjcvo3VphsNOYibtz36pg3HE9fTqiclt3xwM0j1WxQ/640?wx_fmt=jpeg&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=13)
+
+**李根：从你身上或者文远知行身上，体现了对理想的坚持：一直相信可以把自动驾驶从远在天边的黑科技，变成现在寻常百姓的日常。你们是真正的实践者和创造者，我为你们高兴，谢谢韩旭的分享。**
+
+**韩旭** ：感谢李根的友谊，感谢量子位的陪伴。你们跟我们一样是有激情的创业者，8年的时间陪伴，证实了文远知行是最好的自动驾驶公司之一，也证明了量子位是最好的媒体之一。
+
+**李根：谢谢，我们因见证伟大的公司而伟大，谢谢！**
+
+— **完** —
+
+**往期精彩：**  
+
+1.[习近平签署主席令！研究生，迎大变革！](https://mp.weixin.qq.com/s?__biz=MzIwMTg4OTgxMQ==&mid=2247530284&idx=2&sn=3f4c1ad58662d37e4d19ae7422356969&scene=21#wechat_redirect)  
+
+2.
+
+3.
+
+4.[下一代智能版 Windows 要来了？微软推出首个 Windows Agent，命名为 UFO！](http://mp.weixin.qq.com/s?__biz=MzIwMTg4OTgxMQ==&mid=2247518985&idx=1&sn=39118e4b6431b26f91b264e369af8039&chksm=96e5ca75a19243634c566988c6f459e49302a76f1d99b8f47699b694a5f01a75a6ff0e3be87d&scene=21#wechat_redirect)
+
+5.[基于LLM的多Agent框架在金融市场数据的应用](http://mp.weixin.qq.com/s?__biz=MzIwMTg4OTgxMQ==&mid=2247520720&idx=2&sn=93c667266582f1458225fc5b27f12667&chksm=96e5d0aca19259ba11a022ea4034616e85bfdee240856240d3de03d5e97379d560cfd473482f&scene=21#wechat_redirect)
+
+6.
+
+7.[阿里林俊旸：大模型对很多人来说不够用，打造多模态Agent是关键 | 中国AIGC产业峰会](http://mp.weixin.qq.com/s?__biz=MzIwMTg4OTgxMQ==&mid=2247521635&idx=1&sn=03dc8dcb4f7a4d7564a755a8c290ea5e&chksm=96e5d41fa1925d0933942467e39826df80787df0b7d7a00f167c21076e7581ff7bdb50e41339&scene=21#wechat_redirect)
+
+8.[「代理人战争」！微软、OpenAI 、谷歌、Meta用AI Agent疯狂搞钱](http://mp.weixin.qq.com/s?__biz=MzIwMTg4OTgxMQ==&mid=2247521661&idx=1&sn=41e38d946f40a071b1a6a31f4689b880&chksm=96e5d401a1925d17d24be86d452a2e016d1f672dd700d51e8b3933d21750b5f55c7e391be805&scene=21#wechat_redirect)
+
+9.[AI智能体卷爆大模型！AutoGPT等4大Agent打擂，「西部世界」谁将成为软件2.0？](http://mp.weixin.qq.com/s?__biz=MzIwMTg4OTgxMQ==&mid=2247510847&idx=1&sn=57b17ec5cc348044da2180eeff59e921&chksm=96e5ea43a192635529df962321f71fd7930c93ee83eca1ab734ab28de4957490aa3da83b39e6&scene=21#wechat_redirect)
+
+**原创文章：**
+
+1.  
+
+2.[人工智能应用于消费者洞察](http://mp.weixin.qq.com/s?__biz=MzIwMTg4OTgxMQ==&mid=2247495430&idx=1&sn=7e0aaedb041517e0d6f57b5599bb1141&chksm=96e5ae7aa192276cc58159242aba0b827ff605b9f8e87f03acb8e393c6d71050f4d9156f12a6&scene=21#wechat_redirect)  
+
+3.[人工智能应用于创意与制作](http://mp.weixin.qq.com/s?__biz=MzIwMTg4OTgxMQ==&mid=2247495500&idx=1&sn=ecf5837920ca44452cc7f316a524abd8&chksm=96e5ae30a1922726e02724144b6137eb8a7c7d8dd181e790ffec785f45ab5cb671d7e462617f&scene=21#wechat_redirect)
+
+4.[人工智能应用于购买与投放](http://mp.weixin.qq.com/s?__biz=MzIwMTg4OTgxMQ==&mid=2247495552&idx=1&sn=8d44a22ab4ea45638d9b7b10a2697316&chksm=96e5aefca19227ea15acf7159d53123d7d32c372971948acb7e788c35d3f36f253161eefcf05&scene=21#wechat_redirect)
+
+5.[人工智能应用于监测与评估](http://mp.weixin.qq.com/s?__biz=MzIwMTg4OTgxMQ==&mid=2247495573&idx=1&sn=eeb901cf829186523e39b04f20b7dfdc&chksm=96e5aee9a19227ff7e855754c7f63c917726199426cb765f653fdc074ff8ea967e143073ac20&scene=21#wechat_redirect)
+
+6.
+
+7.[人工智能在家庭中的应用与未来展望](http://mp.weixin.qq.com/s?__biz=MzIwMTg4OTgxMQ==&mid=2247520850&idx=1&sn=7975243f723a30d936dbf064b7cca46e&chksm=96e5d32ea1925a38770cbfc28fbdd991ae19a52443e4b1efc49cfb6e236569e712dd7cc92328&scene=21#wechat_redirect)  
+
+8.[人工智能在工作中的应用及其影响](http://mp.weixin.qq.com/s?__biz=MzIwMTg4OTgxMQ==&mid=2247520869&idx=1&sn=ca2fcc43acbe49321d17857bfe84f34f&chksm=96e5d319a1925a0fe6780b124cf292d365ca33790b0b374ac48e1f243389f8d0210ff8895b88&scene=21#wechat_redirect)
+
+  
+**既然有缘读到这里，点个关注吧！欢迎把本公众号推荐给您的同道中人！**
+
+**![图片](https://mmbiz.qpic.cn/mmbiz_gif/bg9OXd6pJIpiagVQbQTearmkd8dyj1tI7j2B13DQ8r3xzmd4qGMaDW4VhUY8OyewXmGLkBoxmGxIMTd8qXia4VSw/640?wx_fmt=other&wxfrom=5&wx_lazy=1&randomid=2kch8d1w&tp=webp#imgIndex=22)**
+
+继续滑动看下一个
+
+机械进化2人工智能
+
+向上滑动看下一个
