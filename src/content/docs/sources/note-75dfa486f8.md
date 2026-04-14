@@ -1,9 +1,10 @@
 ---
 title: 来源总表
-description: 当前 raw/ 共有 20 篇自动驾驶相关来源。这个页面先作为来源注册表，后续如果语料继续增长，可以再拆成逐篇 digest 页面。
+description: 当前 raw/ 共有 22 篇自动驾驶相关来源。这个页面目前仍以来源注册表为主，但从这轮开始，新增材料已经按 source complete
+  的思路被传播到对象页、主题页和总览页，而不再只是停留在登记层。
 pageLabel: 来源索引
-lastUpdated: 2026-04-06
-sourceCount: 20
+lastUpdated: 2026-04-14
+sourceCount: 22
 ---
 
 ## Robotaxi / L4
@@ -22,6 +23,8 @@ sourceCount: 20
 ## 城市 NOA / 量产智驾
 
 - [对话Momenta曹旭东：智驾航海家、多发钱的CEO和“吃狗粮”的人｜远光灯](/auto-drive/raw/momenta-ceo/): Momenta 的组织方法、数据飞轮和“两条腿”战略核心材料。
+- [对话小鹏汽车刘先明：押注 “极简模型”，我花了全公司最多的钱](/auto-drive/raw/note-c7a96a607d/): 车企自研阵营里最重要的一手材料之一，核心是“拆掉 Language”、把智驾抬成物理 AI、以及沿 L2 继续 scaling 到 L4 的连续派判断。
+- [对话轻舟智航于骞：比亚迪的想法被我们实现了](/auto-drive/raw/note-79f296a152/): 轻舟智航的关键口述史，核心是单 J6M 城市 NOA、国产生态窄门、工程体系优先，以及“世界模型 + 强化学习”的云端训练观。
 - [量产太晚是硬伤：地平线HSD能否跨越Momenta这座大山？](/auto-drive/raw/hsd-momenta/): 对当前量产智驾牌桌的竞争格局有较清晰概括。
 - [对话卓驭沈劭劼：从大疆到百亿智驾公司 CEO 的十年之路](/auto-drive/raw/ceo/): 卓驭从大疆分拆后的关键口述史，核心是从规则崩塌到删库重练、从温室到旷野、从大力到巧力。
 
@@ -46,5 +49,5 @@ sourceCount: 20
 
 - 华为乾崑独立资料
 - 百度 Apollo Go 一手数据
-- 车企自研智驾和自研芯片样本
+- 比亚迪 / 理想等主机厂视角的一手智驾材料
 - 文远知行与小马智行的并列比较

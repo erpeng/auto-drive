@@ -309,6 +309,37 @@ def trim_duplicate_lead(body: str, excerpt: str) -> str:
     return body
 
 
+RAW_LINK_LIST_IN_PARENS_RE = re.compile(
+    r"\(\s*(?:\[[^\]]+\]\("
+    + re.escape(f"{SITE_BASE}/raw/")
+    + r"[^)]+\)\s*(?:,\s*)?)+\)"
+)
+RAW_LINK_RE = re.compile(r"\[[^\]]+\]\(" + re.escape(f"{SITE_BASE}/raw/") + r"[^)]+\)")
+
+
+def strip_inline_raw_links(body: str, page: Page) -> str:
+    if page_group(page) not in {"companies", "people"}:
+        return body
+
+    split_marker = "\n## 主要来源\n"
+    if split_marker in body:
+        head, tail = body.split(split_marker, 1)
+        tail = split_marker + tail
+    else:
+        head, tail = body, ""
+
+    head = RAW_LINK_LIST_IN_PARENS_RE.sub("", head)
+    head = RAW_LINK_RE.sub("", head)
+    head = re.sub(r"[ \t]{2,}", " ", head)
+    head = re.sub(r" +([。；，、：])", r"\1", head)
+    head = re.sub(r"([。；，、：])\s*([。；，、：])+", r"\1", head)
+    head = re.sub(r"\n{3,}", "\n\n", head).strip()
+
+    if tail:
+        return head + tail
+    return head
+
+
 def build_frontmatter(page: Page) -> dict[str, object]:
     data: dict[str, object] = {
         "title": "全站索引" if page.rel_source == Path("wiki/index.md") else page.title,
@@ -396,6 +427,7 @@ def compile_page(page: Page, pages: list[Page], page_map: dict[str, Page]) -> st
     body = normalize_body(page.body, page.section)
     body = convert_wikilinks(body, page, page_map)
     body = strip_leading_title(body, page.title).strip()
+    body = strip_inline_raw_links(body, page)
     body = trim_duplicate_lead(body, page.excerpt)
     related = render_recommendation_section(page, pages, page_map)
     if related:

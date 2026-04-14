@@ -1,11 +1,34 @@
 ---
 title: Wiki Log
-description: 2026 04 06 seed | 初始自动驾驶 wiki 建库 读取当前 raw/ 下 15 篇自动驾驶相关文章。 建立 wiki/ 目录结构与
-  AGENTS.md 维护规则。 创建总览页、主题页、公司页、人物页与来源总表。 当前 seed 的重心是行业结构、技术路线分歧、关键公司比较与 founder
-  worldview。 待后续补充的重点是华为乾崑、百
+description: '2026 04 14 source complete | ingest 小鹏刘先明 / 轻舟于骞两篇新材料 ingest 新来源 对话小鹏汽车刘先明：押注
+  “极简模型”，我花了全公司最多的钱 。 ingest 新来源 对话轻舟智航于骞：比亚迪的想法被我们实现了 。 新增 wiki/people/刘先明.md 与 wiki/people/于骞.md
+  。 新增 '
 pageLabel: 更新日志
-lastUpdated: 2026-04-06
+lastUpdated: 2026-04-14
 ---
+
+## [2026-04-14] source-complete | ingest 小鹏刘先明 / 轻舟于骞两篇新材料
+
+- ingest 新来源 `对话小鹏汽车刘先明：押注 “极简模型”，我花了全公司最多的钱`。
+- ingest 新来源 `对话轻舟智航于骞：比亚迪的想法被我们实现了`。
+- 新增 `wiki/people/刘先明.md` 与 `wiki/people/于骞.md`。
+- 新增 `wiki/companies/小鹏汽车.md` 与 `wiki/companies/轻舟智航.md`。
+- 更新 `wiki/themes/技术路线.md`，补入“拆掉 Language”的极简 VLA 路线，以及“云端世界模型 + 强化学习”这条训练基础设施路线。
+- 更新 `wiki/themes/L2 与 L4.md`，把行业分歧从“断裂 vs 桥接”扩成“断裂 vs 桥接 vs 连续”三种立场。
+- 更新 `wiki/themes/智驾芯片与生态.md` 与 `wiki/companies/地平线.md`，把单 J6M 城市 NOA 对国产芯片生态的验证补进去。
+- 更新 `wiki/overview/自动驾驶牌桌.md` 与 `wiki/overview/自动驾驶行业总览.md`，把量产桌细分成量产操作系统派、生态 + 方案商派、车企自研派三类。
+- 更新 `wiki/index.md` 与 `wiki/sources/来源总表.md`，把来源总数同步为 `22` 并补入新入口。
+
+## [2026-04-09] schema | 新增 raw -> wiki 更新分流原则
+
+- 在 `AGENTS.md` 中补充“Update routing principles”。
+- 明确新资料进入 `raw/` 后，不是机械全站更新，而是按变化层级分流：
+  - 对象级变化更新 `wiki/companies/` 或 `wiki/people/`
+  - 问题级变化更新 `wiki/themes/`
+  - 地图级变化更新 `wiki/overview/`
+  - 来源登记与归档更新 `wiki/sources/`
+- 明确一篇新 `raw/` 材料可以同时触发多个页面更新，但必须先判断它改变的是对象、问题、地图还是来源层。
+- 明确 public site 不是主编辑面：新资料必须先更新 `raw/`，再更新 `wiki/`，最后才允许编译到站点；禁止绕过 `wiki/` 直接改站点。
 
 ## [2026-04-06] seed | 初始自动驾驶 wiki 建库
 

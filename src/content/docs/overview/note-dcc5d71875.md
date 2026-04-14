@@ -2,8 +2,8 @@
 title: 自动驾驶行业总览
 description: 当前语料呈现出的自动驾驶行业，不是一个单一赛道，而是三条彼此勾连但评价体系完全不同的战线：Robotaxi、L2 与 L4、智驾芯片与生态。很多争论其实来自把三条战线混成一条。
 pageLabel: 总览
-lastUpdated: 2026-04-06
-sourceCount: 15
+lastUpdated: 2026-04-14
+sourceCount: 17
 ---
 
 ## 三条主线
@@ -23,15 +23,18 @@ sourceCount: 15
 ## 当前语料里的核心矛盾
 
 - **L2 是否通向 L4**：[楼天城](/auto-drive/people/note-3307c75e01/) 明确认为不是，甚至可能越做越远；而 [曹旭东](/auto-drive/people/note-576d343d7f/) 则试图用“一条主线、两条腿”把量产辅助驾驶与 Robotaxi 接成同一个飞轮。
+- **L2 是否最终仍能靠 scaling 走到更高阶无人能力**：[刘先明](/auto-drive/people/note-1e8ce634d4/) 明确回答“可以”，而 [于骞](/auto-drive/people/note-28f6fd5edb/) 也在用“接近 L4 的城市体验”重写量产桌的上限想象。
 - **数据是不是越多越好**：Momenta 代表“狂热数据驱动”；楼天城和彭军都更强调高质量训练环境、世界模型和可探索性，而不是机械堆积人类驾驶数据。
 - **激光雷达是不是必须**：特斯拉代表纯视觉路径；楼天城和李一帆都从不同角度强调激光雷达带来的测距确定性。
 - **生态能否成为护城河**：[地平线](/auto-drive/companies/note-217712ba17/) 的核心命题不是单个芯片是否能打，而是能否成为中立基础设施。
+- **算力是不是越大越好**：轻舟的新材料提醒，单颗 J6M 也可能做出高体验城市 NOA；真正被比拼的是工程体系和识别能力，而不只是名义 TOPS。
 - **商业化优先还是终局优先**：L2 量产和 L4 终局看似共处一个行业，实际经常是两种公司、两种组织和两种 KPI。
 
 ## 当前阶段的粗略格局
 
 - L4/Robotaxi 仍是少数玩家的长期战。
 - 城市 NOA 已进入头部集中期。
+- 城市 NOA 的量产桌内部也开始分叉成三类：量产操作系统派、生态 + 方案商派、车企自研派。
 - 上游硬件的价值，正在从“是否有”转为“谁能以更低总成本提供更高确定性”。
 - 中国公司的优势更多体现在量产节奏、供应链、成本和产业协同。
 
@@ -47,6 +50,8 @@ sourceCount: 15
 - [技术路线](/auto-drive/themes/note-0ef0d64de9/)
 - [智驾芯片与生态](/auto-drive/themes/note-30fb7c170c/)
 - [激光雷达](/auto-drive/themes/note-ab41bf10ba/)
+- [小鹏汽车](/auto-drive/companies/note-c86bb992e0/)
+- [轻舟智航](/auto-drive/companies/note-63ddce497a/)
 
 ## 主要来源
 
@@ -57,3 +62,5 @@ sourceCount: 15
 - [对话Momenta曹旭东：智驾航海家、多发钱的CEO和“吃狗粮”的人｜远光灯](/auto-drive/raw/momenta-ceo/)
 - [地平线还是想当安卓](/auto-drive/raw/note-ca24a1b923/)
 - [对话禾赛李一帆：你仔细想行业的机会来自哪？是国家的、民族的机会](/auto-drive/raw/note-1c22224657/)
+- [对话小鹏汽车刘先明：押注 “极简模型”，我花了全公司最多的钱](/auto-drive/raw/note-c7a96a607d/)
+- [对话轻舟智航于骞：比亚迪的想法被我们实现了](/auto-drive/raw/note-79f296a152/)
