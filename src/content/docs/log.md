@@ -1,11 +1,19 @@
 ---
 title: Wiki Log
-description: 2026 04 27 source complete | ingest 楼天城世界模型 2.0 新材料 ingest 新来源 对话小马智行楼天城：驯服脱缰的野马，让
-  AI 自我进化 。 新增 wiki/themes/世界模型.md ，把世界模型从技术路线页里的小节升级为独立主题，区分 1.0 训练环境、2.0 自我诊断系统、intention
-  与 langu
+description: 2026 04 27 source complete | ingest 地平线苏箐产品工程材料 ingest 新来源 对话地平线苏箐：做产品的人，第二天一醒过来又开始焦虑了
+  。 新增 wiki/people/苏箐.md ，把他定义为“用物理规律约束技术叙事的架构型产品人”，核心是反黄金子弹、物理集成、产品填坑与发版确定性。 更新 wiki/companies
 pageLabel: 更新日志
 lastUpdated: 2026-04-27
 ---
+
+## [2026-04-27] source-complete | ingest 地平线苏箐产品工程材料
+
+- ingest 新来源 `对话地平线苏箐：做产品的人，第二天一醒过来又开始焦虑了`。
+- 新增 `wiki/people/苏箐.md`，把他定义为“用物理规律约束技术叙事的架构型产品人”，核心是反黄金子弹、物理集成、产品填坑与发版确定性。
+- 更新 `wiki/companies/地平线.md`，把地平线从“生态型基础设施公司”进一步推进为必须同时证明舱驾一体、系统集成和版本稳定性的系统玩家。
+- 更新 `wiki/themes/智驾芯片与生态.md` 与 `wiki/themes/技术路线.md`，补入计算平台 2+1 收敛、舱驾一体内存/缓存平面逻辑，以及数据驱动端到端带来的版本波动问题。
+- 更新 `wiki/overview/自动驾驶行业总览.md` 与 `wiki/overview/自动驾驶牌桌.md`，把量产桌的评价标准从“模型/算力/生态”扩展到“计算底座 + 发版确定性”。
+- 更新 `wiki/index.md` 与 `wiki/sources/来源总表.md`，raw 来源总数同步为 `25`。
 
 ## [2026-04-27] source-complete | ingest 楼天城世界模型 2.0 新材料
 

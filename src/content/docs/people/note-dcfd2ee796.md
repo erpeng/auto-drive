@@ -61,6 +61,6 @@ sourceCount: 3
 <div class="related-grid">
 <a class="related-card" href="/auto-drive/companies/note-217712ba17/">
   <span class="related-card-title">地平线</span>
-  <span class="related-card-desc">地平线表面卖芯片，骨子里想拿的是 产业里的默认接口权 。它不是满足于做“国产替代元件”的公司，而是一直想从芯片走向工具链、算法、生态，再走向一种类似安卓 / Wintel 的秩序位置。它最鲜活的地方，就是野心和现实之间始终存在的那条张力线。</span>
+  <span class="related-card-desc">地平线表面卖芯片，骨子里想拿的是 产业里的默认接口权 。它不是满足于做“国产替代元件”的公司，而是一直想从芯片走向工具链、算法、生态，再走向一种类似安卓 / Wintel 的秩序位置。苏箐的新材料让这家公司又多了一层质感：它不能只靠生态叙事活着，还必须把舱驾一体、系统集成、发版确定性和产品填坑做成硬能力。</span>
 </a>
 </div>
