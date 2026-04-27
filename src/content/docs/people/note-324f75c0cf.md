@@ -67,6 +67,6 @@ sourceCount: 4
 <div class="related-grid">
 <a class="related-card" href="/auto-drive/companies/note-fd360bc0cd/">
   <span class="related-card-title">小马智行</span>
-  <span class="related-card-desc">小马智行最鲜活的地方，是它不像一间“顺着市场热点调整姿势”的公司，而像一间 死守单一目标函数的 L4 专门学校 。它宁愿显得慢，也不愿把问题改写成更容易被市场理解的样子。楼天城和彭军几乎把整家公司都写成了一种方法论姿态: 不被 L2 稀释，不被端到端热词诱惑，不把 demo 当进展。</span>
+  <span class="related-card-desc">小马智行最鲜活的地方，是它不像一间“顺着市场热点调整姿势”的公司，而像一间 死守单一目标函数、并试图让 AI 反过来驱动研发组织的 L4 专营公司 。它宁愿显得慢，也不愿把问题改写成更容易被市场理解的样子。最新楼天城访谈把这条主线推得更清楚: 小马押的不是某个端到端模型，而是一套 世界模型 AI 诊断 车端模型改进 真实运营反馈 的递归系统。</span>
 </a>
 </div>

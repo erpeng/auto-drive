@@ -1,11 +1,20 @@
 ---
 title: Wiki Log
-description: '2026 04 14 source complete | ingest 小鹏刘先明 / 轻舟于骞两篇新材料 ingest 新来源 对话小鹏汽车刘先明：押注
-  “极简模型”，我花了全公司最多的钱 。 ingest 新来源 对话轻舟智航于骞：比亚迪的想法被我们实现了 。 新增 wiki/people/刘先明.md 与 wiki/people/于骞.md
-  。 新增 '
+description: 2026 04 27 source complete | ingest 楼天城世界模型 2.0 新材料 ingest 新来源 对话小马智行楼天城：驯服脱缰的野马，让
+  AI 自我进化 。 新增 wiki/themes/世界模型.md ，把世界模型从技术路线页里的小节升级为独立主题，区分 1.0 训练环境、2.0 自我诊断系统、intention
+  与 langu
 pageLabel: 更新日志
-lastUpdated: 2026-04-14
+lastUpdated: 2026-04-27
 ---
+
+## [2026-04-27] source-complete | ingest 楼天城世界模型 2.0 新材料
+
+- ingest 新来源 `对话小马智行楼天城：驯服脱缰的野马，让 AI 自我进化`。
+- 新增 `wiki/themes/世界模型.md`，把世界模型从技术路线页里的小节升级为独立主题，区分 1.0 训练环境、2.0 自我诊断系统、intention 与 language 的差异。
+- 更新 `wiki/people/楼天城.md`，把人物模型从“硬约束技术裁判”推进到“给 AI 套上马具的 Harness 架构师”。
+- 更新 `wiki/companies/小马智行.md`，补入世界模型 2.0、20 城目标、Robotruck/编队、高速与极端天气边界，以及这篇材料对小马 L4 路线正确性的贝叶斯增量。
+- 更新 `wiki/themes/技术路线.md`、`wiki/themes/L2 与 L4.md`、`wiki/themes/Robotaxi.md` 与 `wiki/overview/自动驾驶行业总览.md`，把“世界模型精度 / 自我诊断 / AI for development”作为新的横向变量。
+- 更新 `wiki/sources/来源总表.md`，raw 来源总数同步为 `24`。
 
 ## [2026-04-14] source-complete | ingest 小鹏刘先明 / 轻舟于骞两篇新材料
 
